@@ -2,7 +2,7 @@ library(tidyverse)
 library(here)
 
 #-------------------------------------------------------------------------------
-# Usage Rscript pariwiseCor.R [first_letter_of_gene]
+# Usage Rscript pairwiseCor.R [first_letter_of_gene]
 #
 # This calculates the pearson's correlation between each gene that starts with the
 # specified first letter and all genes. It's split by first letter so you can
